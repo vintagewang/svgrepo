@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="aJoVtLiN6SHYciRm9ZM3">
-    <mxGraphModel dx="1027" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,17 +70,37 @@
         <mxCell id="sro0sqaeLuZySCDE6q3B-32" parent="sro0sqaeLuZySCDE6q3B-33" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="S3 Bucket&lt;br&gt;Logs &amp;amp; Metrics" vertex="1">
           <mxGeometry height="30" width="170" x="60" y="11" as="geometry" />
         </mxCell>
-        <mxCell id="sro0sqaeLuZySCDE6q3B-38" edge="1" parent="1" source="sro0sqaeLuZySCDE6q3B-23" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="sro0sqaeLuZySCDE6q3B-31" value="">
+        <mxCell id="sro0sqaeLuZySCDE6q3B-38" edge="1" parent="1" source="sro0sqaeLuZySCDE6q3B-23" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="sro0sqaeLuZySCDE6q3B-31" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="560" />
+              <mxPoint x="505" y="560" />
+            </Array>
             <mxPoint x="540" y="600" as="sourcePoint" />
             <mxPoint x="590" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sro0sqaeLuZySCDE6q3B-35" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#000000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket;" value="" vertex="1">
-          <mxGeometry height="52" width="50" x="740" y="633" as="geometry" />
+          <mxGeometry height="52" width="50" x="755" y="633" as="geometry" />
         </mxCell>
         <mxCell id="sro0sqaeLuZySCDE6q3B-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="S3 Bucket&lt;br&gt;Logs &amp;amp; Metrics" vertex="1">
-          <mxGeometry height="30" width="170" x="800" y="644" as="geometry" />
+          <mxGeometry height="30" width="170" x="815" y="644" as="geometry" />
+        </mxCell>
+        <mxCell id="sro0sqaeLuZySCDE6q3B-40" edge="1" parent="1" source="sro0sqaeLuZySCDE6q3B-24" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="sro0sqaeLuZySCDE6q3B-31" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="560" />
+              <mxPoint x="505" y="560" />
+            </Array>
+            <mxPoint x="1120" y="500" as="sourcePoint" />
+            <mxPoint x="510" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sro0sqaeLuZySCDE6q3B-41" edge="1" parent="1" source="sro0sqaeLuZySCDE6q3B-24" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="sro0sqaeLuZySCDE6q3B-35" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1395" y="520" as="sourcePoint" />
+            <mxPoint x="1120" y="649" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
