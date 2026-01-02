@@ -28,9 +28,6 @@
         <mxCell id="sro0sqaeLuZySCDE6q3B-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=none;fillColor=light-dark(#c4c0c0, #ededed);fontSize=18;" value="" vertex="1">
           <mxGeometry height="177.5" width="180" x="383" y="324" as="geometry" />
         </mxCell>
-        <mxCell id="sro0sqaeLuZySCDE6q3B-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;fillColor=light-dark(#3d61f2, #ededed);strokeColor=none;fontColor=light-dark(#ffffff, #ededed);fontSize=18;" value="AutoMQ Service" vertex="1">
-          <mxGeometry height="30" width="144.88" x="401.56" y="310" as="geometry" />
-        </mxCell>
         <mxCell id="sro0sqaeLuZySCDE6q3B-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" value="" vertex="1">
           <mxGeometry height="120" width="299" x="321" y="600" as="geometry" />
         </mxCell>
@@ -54,7 +51,7 @@
           <mxGeometry height="30" width="170" x="376.44" y="673" as="geometry" />
         </mxCell>
         <mxCell id="9cEUA5RbhXN9pt7Hii_X-3" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="100" width="100" x="423" y="370" as="geometry" />
+          <mxGeometry height="100" width="100" x="423" y="359" as="geometry" />
         </mxCell>
         <mxCell id="9cEUA5RbhXN9pt7Hii_X-2" parent="9cEUA5RbhXN9pt7Hii_X-3" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#3d61f2, #ededed);strokeColor=none;" value="" vertex="1">
           <mxGeometry height="100" width="100" as="geometry" />
@@ -123,6 +120,9 @@
         </mxCell>
         <mxCell id="DBQ46wYyOPj6L2cnVZ6B-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;rounded=1;fontSize=18;arcSize=48;" value="Cross-Account Access" vertex="1">
           <mxGeometry height="30" width="210" x="630" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="X4i2jT7Md061hm_y1BWQ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="&lt;div&gt;AutoMQ Service&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="385.5" y="459" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
