@@ -45,7 +45,7 @@ OPENAI_API_KEY=sk-your-real-api-key-here
 ```
 
 **重要提示 / Important:** 
-- ⚠️ 不要提交 `.env` 文件到 Git！/ Don't commit `.env` to Git!
+- ⚠️ 不要提交 `.env` 文件到 Git！ / Don't commit `.env` to Git!
 - ✅ `.gitignore` 已经配置好了 / `.gitignore` is already configured
 
 ---
